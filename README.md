@@ -1,6 +1,6 @@
 # My Portfolio
 
-Hello, I'm [Your Name], a passionate full-stack developer based in [Location]. I love building innovative web applications and working with cutting-edge technologies.
+Hello, I'm Shin Thant Phyo, a passionate AI Enginnering student at University of Information Technology, Yangon and freelance web developer based in Yangon.. I love building innovative web applications and working with cutting-edge technologies.
 
 ## Skills
 - Languages: JavaScript, Python, Java, HTML/CSS
