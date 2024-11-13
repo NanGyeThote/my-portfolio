@@ -4,7 +4,7 @@ Hello, I'm Shin Thant Phyo, a passionate AI Enginnering student at University of
 
 ## Skills
 - Languages: JavaScript, Python, Java, HTML/CSS
-- Frameworks: React, Node.js, Django
+- Frameworks: Node.js, Django, Flask
 - Tools: Git, Docker, AWS, MongoDB
 
 ## Projects
